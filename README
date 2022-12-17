@@ -1,1 +1,7 @@
+This program generates a 6x6 pixel-art resembling those in
+Github profile pictures.
+
+*You can generate a random image by setting the word 
+seed as 'random' while launching the program.
+
 Usage: python3 pfp.py <word_seed>
